@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "006e5c25-e7be-44ee-b7a0-e39b494bf627"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Theory of Numbers",
+  "course_description": "This course is an elementary introduction to number theory with no algebraic prerequisites. Topics covered include primes, congruences, quadratic reciprocity, diophantine equations, irrational numbers, continued fractions, and partitions.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.781",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
